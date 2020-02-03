@@ -1,0 +1,3 @@
+{"id":1,"makeModel":"Ferrari","year":2020,"retailPrice":0.0}
+{"id":2,"makeModel":"Ferrari","year":2020,"retailPrice":20.0}
+{"id":3,"makeModel":"Ferrariiii","year":2020,"retailPrice":0.0}
